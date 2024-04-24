@@ -18,7 +18,8 @@ This Task Management App is a web application built using Node.js, Express, and 
 
 
 ## Home
-![Screenshot 2024-04-24 045211](https://github.com/sachin2398/Best-Book-Buddy/assets/113828281/eccaaadc-72dc-4dd6-9aa0-29b7d781c383)
+![Screenshot 2024-04-24 212240](https://github.com/sachin2398/Best-Book-Buddy/assets/113828281/47969a19-ed98-47cd-93d4-def899f2d9e4)
+
 
 
 
@@ -35,7 +36,7 @@ This Task Management App is a web application built using Node.js, Express, and 
 
 ### Deployment
 - Frontend: The frontend of the application is deployed on [Vercel](https://bbb-task-app.vercel.app/).
-- Backend: The backend of the application is deployed on [Render](https://task-mangement-backend-1.onrender.com).
+- Backend: The backend of the application is deployed on [Render](https://bbd-backend-task.onrender.com).
 
 
 ### Installation
@@ -51,7 +52,7 @@ To run this application locally, follow these steps:
 
 ### Deployment Links
 - Frontend: [Vercel Lab Deployment](https://bbb-task-app.vercel.app/)
-- Backend: [Render Deployment](https://task-mangement-backend-1.onrender.com)
+- Backend: [Render Deployment](https://bbd-backend-task.onrender.com)
 
 ### Authors
 - [SACHIN KUMAR SINGH]
