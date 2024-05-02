@@ -9,6 +9,7 @@ This Task Management App is a web application built using Node.js, Express, and 
 - User authentication login.
 - Create, read, update, and delete tasks.
 - Ability to add detailed descriptions and operations for each task.
+-  We can filter the task also according to the status.
 - User-friendly interface.
 ## ScreenShots
 ## Login
