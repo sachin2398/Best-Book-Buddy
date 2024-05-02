@@ -1,12 +1,11 @@
 const express = require("express");
 const app = express();
 const mongoose = require("mongoose");
-const path = require("path");
 const cors = require("cors");
 require("dotenv").config();
 const authRoutes = require("./routes/authRoutes");
 const taskRoutes = require("./routes/taskRoutes");
-const profileRoutes = require("./routes/profileRoutes");
+
 
 app.use(express.json());
 app.use(cors());
@@ -22,7 +21,7 @@ app.get('/', (req,res)=>{
 // use routes
 app.use("/api/auth", authRoutes);
 app.use("/api/tasks", taskRoutes);
-app.use("/api/profile", profileRoutes);
+
 
 
 
